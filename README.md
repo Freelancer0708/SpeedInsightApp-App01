@@ -10,6 +10,8 @@ npm install @types/axios
 npm install cookie                
 npm install --save-dev @types/cookie
 npm install sequelize mysql2 bcryptjs dotenv
+npm install axios cheerio
+npm install image-size
 </code>
 
 <h3>.env</h3>
